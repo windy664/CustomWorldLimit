@@ -1,0 +1,8 @@
+mySQLHost: 127.0.0.1
+mySQLPort: '3306'
+mySQLUsername: world_block_limit
+mySQLPassword: 'bbab9e110de05e5e'
+mySQLDatabase: world_block_limit
+debug: false
+
+

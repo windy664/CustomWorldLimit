@@ -1,0 +1,5 @@
+name: CustomWorldLimit
+version: $version
+main: org.windy.customWorldLimit.plugin
+api-version: '1.20'
+authors: [ 1 ]
